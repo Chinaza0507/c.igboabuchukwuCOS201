@@ -9,7 +9,6 @@ int main(){
     }
      if (age<18){
         cout<<"You are a minor please leave this platform"<<endl;
-
     }
     return 0;
 }
